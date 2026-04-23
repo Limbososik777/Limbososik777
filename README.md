@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Asscort](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=asscortt&logoColor=white)
 
 ## Текущие цели:
 - [ ] Изучить n8n для автоматизации.
