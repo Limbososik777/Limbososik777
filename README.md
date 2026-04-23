@@ -15,4 +15,9 @@
 ## Текущие цели:
 - [ ] Изучить n8n для автоматизации.
 - [ ] Углубить знания в SQL.
+## 🚀 Мои проекты
+
+### [Telegram Registration Bot](https://github.com/Limbososik777/tg-reg-bot)
+* Что делает: Регистрация пользователей и сохранение данных.
+* Стек: Python, aiogram, SQLite.
 
