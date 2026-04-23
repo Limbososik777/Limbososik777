@@ -1,16 +1,16 @@
 ## Hi there 👋
+# Привет! Я начинающий разработчик и энтузиаст IT 🚀
 
-<!--
-**Limbososik777/Limbososik777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Увлекаюсь разработкой на Python (сейчас работаю над Telegram-ботами).
+- 🛠 Разбираюсь в компьютерном железе: настройка BIOS, диагностика стабильности и чистая установка ОС.
+- 📊 Интересуюсь автоматизацией процессов и системным администрированием.
 
-Here are some ideas to get you started:
+## Мой стек:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Текущие цели:
+- [ ] Изучить n8n для автоматизации.
+- [ ] Углубить знания в SQL.
+- [ ] Дописать бота с системой регистрации.
