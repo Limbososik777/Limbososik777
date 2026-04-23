@@ -18,6 +18,3 @@
 ## 🚀 Мои проекты
 
 ### [Telegram Bot For nails](https://github.com/Limbososik777/tg-reg-bot)
-* Что делает: Регистрация пользователей и сохранение данных.
-* Стек: Python, aiogram, SQLite.
-
